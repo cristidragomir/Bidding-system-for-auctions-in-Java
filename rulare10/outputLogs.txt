@@ -1,0 +1,464 @@
+Log-ul brokerului 0:
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 50.0
+02:48:15.857847900 Produsul curent a ajuns la valoarea 250.0
+02:48:15.857847900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 67.0
+02:48:15.857847900 Produsul curent a ajuns la valoarea 200.0
+02:48:15.857847900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 275.0
+02:48:15.858848900 Produsul curent a ajuns la valoarea 460.0
+02:48:15.858848900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.858848900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.858848900 Produsul curent a ajuns la valoarea 575.0
+02:48:15.858848900 Produsul curent a ajuns la valoarea 860.0
+02:48:15.858848900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+//////////////
+Log-ul brokerului 1:
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 50.0
+02:48:15.857847900 Produsul curent a ajuns la valoarea 250.0
+02:48:15.857847900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 67.0
+02:48:15.857847900 Produsul curent a ajuns la valoarea 200.0
+02:48:15.857847900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 275.0
+02:48:15.858848900 Produsul curent a ajuns la valoarea 460.0
+02:48:15.858848900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.858848900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.858848900 Produsul curent a ajuns la valoarea 575.0
+02:48:15.858848900 Produsul curent a ajuns la valoarea 860.0
+02:48:15.858848900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+//////////////
+Log-ul brokerului 2:
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 50.0
+02:48:15.857847900 Produsul curent a ajuns la valoarea 250.0
+02:48:15.857847900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 67.0
+02:48:15.857847900 Produsul curent a ajuns la valoarea 200.0
+02:48:15.857847900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.857847900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.857847900 Produsul curent a ajuns la valoarea 275.0
+02:48:15.858848900 Produsul curent a ajuns la valoarea 460.0
+02:48:15.858848900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.858848900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.858848900 Produsul curent a ajuns la valoarea 575.0
+02:48:15.858848900 Produsul curent a ajuns la valoarea 860.0
+02:48:15.858848900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 50.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 250.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 700.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 67.0
+Pentru produsul cu numele Inel s-a licitat suma de 200.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 650.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 275.0
+Pentru produsul cu numele Cercei s-a licitat suma de 460.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 575.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 860.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 1:
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 50.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 250.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 700.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 67.0
+Pentru produsul cu numele Inel s-a licitat suma de 200.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 650.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 275.0
+Pentru produsul cu numele Cercei s-a licitat suma de 460.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 575.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 860.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 50.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 250.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 700.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 67.0
+Pentru produsul cu numele Inel s-a licitat suma de 200.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 650.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 275.0
+Pentru produsul cu numele Cercei s-a licitat suma de 460.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 575.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 860.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 50.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 250.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 700.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 67.0
+Pentru produsul cu numele Inel s-a licitat suma de 200.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 650.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 275.0
+Pentru produsul cu numele Cercei s-a licitat suma de 460.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 575.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 860.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 50.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 250.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 700.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 67.0
+Pentru produsul cu numele Inel s-a licitat suma de 200.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 650.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 275.0
+Pentru produsul cu numele Cercei s-a licitat suma de 460.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 575.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 860.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 50.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 250.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 700.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 67.0
+Pentru produsul cu numele Inel s-a licitat suma de 200.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 650.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 275.0
+Pentru produsul cu numele Cercei s-a licitat suma de 460.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 575.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 860.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 50.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 250.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 700.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 67.0
+Pentru produsul cu numele Inel s-a licitat suma de 200.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 650.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 275.0
+Pentru produsul cu numele Cercei s-a licitat suma de 460.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 575.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 860.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+-------------

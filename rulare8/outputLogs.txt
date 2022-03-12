@@ -1,0 +1,368 @@
+Log-ul brokerului 0:
+02:48:15.402522700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.402522700 Produsul curent a ajuns la valoarea 500.0
+02:48:15.402522700 Produsul curent a ajuns la valoarea 575.0
+Ati incasat suma de 57.5 in urma tranzactiei
+02:48:15.504614300 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.504614300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.504614300 Produsul curent a ajuns la valoarea 1750.0
+02:48:15.504614300 Produsul curent a ajuns la valoarea 2200.0
+Ati incasat suma de 550.0 in urma tranzactiei
+02:48:15.605665800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.605665800 Produsul curent a ajuns la valoarea 1600.0
+02:48:15.605665800 Produsul curent a ajuns la valoarea 2200.0
+02:48:15.605665800 Produsul curent a ajuns la valoarea 2500.0
+//////////////
+Log-ul brokerului 1:
+02:48:15.402522700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.402522700 Produsul curent a ajuns la valoarea 500.0
+02:48:15.402522700 Produsul curent a ajuns la valoarea 575.0
+02:48:15.504614300 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.504614300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.504614300 Produsul curent a ajuns la valoarea 1750.0
+02:48:15.504614300 Produsul curent a ajuns la valoarea 2200.0
+02:48:15.605665800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.605665800 Produsul curent a ajuns la valoarea 1600.0
+02:48:15.605665800 Produsul curent a ajuns la valoarea 2200.0
+02:48:15.605665800 Produsul curent a ajuns la valoarea 2500.0
+//////////////
+Log-ul brokerului 2:
+02:48:15.402522700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.402522700 Produsul curent a ajuns la valoarea 500.0
+02:48:15.402522700 Produsul curent a ajuns la valoarea 575.0
+02:48:15.504614300 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.504614300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.504614300 Produsul curent a ajuns la valoarea 1750.0
+02:48:15.504614300 Produsul curent a ajuns la valoarea 2200.0
+02:48:15.605665800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.605665800 Produsul curent a ajuns la valoarea 1600.0
+02:48:15.605665800 Produsul curent a ajuns la valoarea 2200.0
+02:48:15.605665800 Produsul curent a ajuns la valoarea 2500.0
+Ati incasat suma de 625.0 in urma tranzactiei
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 1750.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 2200.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1600.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2500.0
+Clientul Nume8 a achizitionat produsul Coronita la pretul de 2500.0. Felicitari!
+//////////////
+Log-ul clientului 1:
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 1750.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 2200.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1600.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2500.0
+Clientul Nume8 a achizitionat produsul Coronita la pretul de 2500.0. Felicitari!
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 1750.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 2200.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1600.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2500.0
+Clientul Nume8 a achizitionat produsul Coronita la pretul de 2500.0. Felicitari!
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 1750.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 2200.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1600.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2500.0
+Clientul Nume8 a achizitionat produsul Coronita la pretul de 2500.0. Felicitari!
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 1750.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 2200.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1600.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2500.0
+Clientul Nume8 a achizitionat produsul Coronita la pretul de 2500.0. Felicitari!
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 1750.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 2200.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1600.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2500.0
+Clientul Nume8 a achizitionat produsul Coronita la pretul de 2500.0. Felicitari!
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 1750.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 2200.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1600.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2500.0
+Clientul Nume8 a achizitionat produsul Coronita la pretul de 2500.0. Felicitari!
+//////////////
+-------------

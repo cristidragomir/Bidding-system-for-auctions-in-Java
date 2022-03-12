@@ -1,0 +1,358 @@
+Log-ul brokerului 0:
+02:48:12.577065800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.612092600 Produsul curent a ajuns la valoarea 500.0
+02:48:12.617096400 Produsul curent a ajuns la valoarea 575.0
+02:48:12.727191500 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.729173300 Produsul curent a ajuns la valoarea 675.0
+02:48:12.729173300 Produsul curent a ajuns la valoarea 800.0
+Ati incasat suma de 80.0 in urma tranzactiei
+02:48:12.831244900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.831244900 Produsul curent a ajuns la valoarea 175.0
+02:48:12.832246200 Produsul curent a ajuns la valoarea 220.0
+02:48:12.935319600 Licitatia nu a putut incepe din cauza numarului mic de participanti
+//////////////
+Log-ul brokerului 1:
+02:48:12.580068100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.616095 Produsul curent a ajuns la valoarea 500.0
+02:48:12.617096400 Produsul curent a ajuns la valoarea 575.0
+Ati incasat suma de 57.5 in urma tranzactiei
+02:48:12.727191500 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.729173300 Produsul curent a ajuns la valoarea 675.0
+02:48:12.729173300 Produsul curent a ajuns la valoarea 800.0
+02:48:12.831244900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.831244900 Produsul curent a ajuns la valoarea 175.0
+02:48:12.832246200 Produsul curent a ajuns la valoarea 220.0
+02:48:12.935319600 Licitatia nu a putut incepe din cauza numarului mic de participanti
+//////////////
+Log-ul brokerului 2:
+02:48:12.580068100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.616095 Produsul curent a ajuns la valoarea 500.0
+02:48:12.617096400 Produsul curent a ajuns la valoarea 575.0
+02:48:12.727191500 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.729173300 Produsul curent a ajuns la valoarea 675.0
+02:48:12.729173300 Produsul curent a ajuns la valoarea 800.0
+02:48:12.831244900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:12.832246200 Produsul curent a ajuns la valoarea 175.0
+02:48:12.832246200 Produsul curent a ajuns la valoarea 220.0
+Ati incasat suma de 55.0 in urma tranzactiei
+02:48:12.935319600 Licitatia nu a putut incepe din cauza numarului mic de participanti
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 3
+   nume = Renasterea
+   pretVanzare = 5999.99
+   pretMinim = 750.0
+   an = 1970
+   Tablou: 
+       numePictor = Tonitza
+       culori = acrilic
+
+Pentru produsul cu numele Renasterea s-a licitat suma de 675.0
+Pentru produsul cu numele Renasterea s-a licitat suma de 800.0
+Clientul Nume6 a achizitionat produsul Renasterea la pretul de 800.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 100.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 175.0
+Pentru produsul cu numele Inel s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Inel la pretul de 220.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 1:
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 3
+   nume = Renasterea
+   pretVanzare = 5999.99
+   pretMinim = 750.0
+   an = 1970
+   Tablou: 
+       numePictor = Tonitza
+       culori = acrilic
+
+Pentru produsul cu numele Renasterea s-a licitat suma de 675.0
+Pentru produsul cu numele Renasterea s-a licitat suma de 800.0
+Clientul Nume6 a achizitionat produsul Renasterea la pretul de 800.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 100.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 175.0
+Pentru produsul cu numele Inel s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Inel la pretul de 220.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 3
+   nume = Renasterea
+   pretVanzare = 5999.99
+   pretMinim = 750.0
+   an = 1970
+   Tablou: 
+       numePictor = Tonitza
+       culori = acrilic
+
+Pentru produsul cu numele Renasterea s-a licitat suma de 675.0
+Pentru produsul cu numele Renasterea s-a licitat suma de 800.0
+Clientul Nume6 a achizitionat produsul Renasterea la pretul de 800.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 100.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 175.0
+Pentru produsul cu numele Inel s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Inel la pretul de 220.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 3
+   nume = Renasterea
+   pretVanzare = 5999.99
+   pretMinim = 750.0
+   an = 1970
+   Tablou: 
+       numePictor = Tonitza
+       culori = acrilic
+
+Pentru produsul cu numele Renasterea s-a licitat suma de 675.0
+Pentru produsul cu numele Renasterea s-a licitat suma de 800.0
+Clientul Nume6 a achizitionat produsul Renasterea la pretul de 800.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 100.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 175.0
+Pentru produsul cu numele Inel s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Inel la pretul de 220.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 3
+   nume = Renasterea
+   pretVanzare = 5999.99
+   pretMinim = 750.0
+   an = 1970
+   Tablou: 
+       numePictor = Tonitza
+       culori = acrilic
+
+Pentru produsul cu numele Renasterea s-a licitat suma de 675.0
+Pentru produsul cu numele Renasterea s-a licitat suma de 800.0
+Clientul Nume6 a achizitionat produsul Renasterea la pretul de 800.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 100.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 175.0
+Pentru produsul cu numele Inel s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Inel la pretul de 220.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 3
+   nume = Renasterea
+   pretVanzare = 5999.99
+   pretMinim = 750.0
+   an = 1970
+   Tablou: 
+       numePictor = Tonitza
+       culori = acrilic
+
+Pentru produsul cu numele Renasterea s-a licitat suma de 675.0
+Pentru produsul cu numele Renasterea s-a licitat suma de 800.0
+Clientul Nume6 a achizitionat produsul Renasterea la pretul de 800.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 100.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 175.0
+Pentru produsul cu numele Inel s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Inel la pretul de 220.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 3
+   nume = Renasterea
+   pretVanzare = 5999.99
+   pretMinim = 750.0
+   an = 1970
+   Tablou: 
+       numePictor = Tonitza
+       culori = acrilic
+
+Pentru produsul cu numele Renasterea s-a licitat suma de 675.0
+Pentru produsul cu numele Renasterea s-a licitat suma de 800.0
+Clientul Nume6 a achizitionat produsul Renasterea la pretul de 800.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 4
+   nume = Inel
+   pretVanzare = 999.99
+   pretMinim = 100.0
+   an = 1999
+   Bijuterie: 
+       material = Argint
+       piatraPretioasa = false
+
+Pentru produsul cu numele Inel s-a licitat suma de 175.0
+Pentru produsul cu numele Inel s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Inel la pretul de 220.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+-------------

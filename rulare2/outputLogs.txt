@@ -1,0 +1,518 @@
+Log-ul brokerului 0:
+02:48:13.272010 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.273010400 Produsul curent a ajuns la valoarea 500.0
+02:48:13.273010400 Produsul curent a ajuns la valoarea 575.0
+02:48:13.375082500 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.376083800 Produsul curent a ajuns la valoarea 675.0
+02:48:13.376083800 Produsul curent a ajuns la valoarea 800.0
+02:48:13.376083800 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:13.377084800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.377084800 Produsul curent a ajuns la valoarea 175.0
+02:48:13.377084800 Produsul curent a ajuns la valoarea 220.0
+02:48:13.378085300 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:13.378085300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.378085300 Produsul curent a ajuns la valoarea 450.0
+02:48:13.379085700 Produsul curent a ajuns la valoarea 540.0
+02:48:13.379085700 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+//////////////
+Log-ul brokerului 1:
+02:48:13.272010 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.273010400 Produsul curent a ajuns la valoarea 500.0
+02:48:13.273010400 Produsul curent a ajuns la valoarea 575.0
+02:48:13.375082500 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.376083800 Produsul curent a ajuns la valoarea 675.0
+02:48:13.376083800 Produsul curent a ajuns la valoarea 800.0
+02:48:13.376083800 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:13.377084800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.377084800 Produsul curent a ajuns la valoarea 175.0
+02:48:13.377084800 Produsul curent a ajuns la valoarea 220.0
+02:48:13.378085300 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:13.378085300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.378085300 Produsul curent a ajuns la valoarea 450.0
+02:48:13.379085700 Produsul curent a ajuns la valoarea 540.0
+02:48:13.379085700 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+//////////////
+Log-ul brokerului 2:
+02:48:13.272010 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.273010400 Produsul curent a ajuns la valoarea 500.0
+02:48:13.273010400 Produsul curent a ajuns la valoarea 575.0
+Ati incasat suma de 57.5 in urma tranzactiei
+02:48:13.375082500 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.376083800 Produsul curent a ajuns la valoarea 675.0
+02:48:13.376083800 Produsul curent a ajuns la valoarea 800.0
+02:48:13.376083800 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:13.377084800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.377084800 Produsul curent a ajuns la valoarea 175.0
+02:48:13.377084800 Produsul curent a ajuns la valoarea 220.0
+02:48:13.378085300 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:13.378085300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.378085300 Produsul curent a ajuns la valoarea 450.0
+02:48:13.379085700 Produsul curent a ajuns la valoarea 540.0
+02:48:13.379085700 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 1:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 1
+   nume = Colier
+   pretVanzare = 2699.99
+   pretMinim = 250.55
+   an = 2003
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Colier s-a licitat suma de 500.0
+Pentru produsul cu numele Colier s-a licitat suma de 575.0
+Clientul Nume6 a achizitionat produsul Colier la pretul de 575.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 175.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 220.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 450.0
+Pentru produsul cu numele Coronita s-a licitat suma de 540.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+//////////////
+-------------

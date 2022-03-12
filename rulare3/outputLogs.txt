@@ -1,0 +1,512 @@
+Log-ul brokerului 0:
+02:48:13.409109700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.410110700 Produsul curent a ajuns la valoarea 500.0
+02:48:13.410110700 Produsul curent a ajuns la valoarea 590.0
+02:48:13.511179100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.511179100 Produsul curent a ajuns la valoarea 900.0
+02:48:13.511179100 Produsul curent a ajuns la valoarea 1950.0
+Ati incasat suma de 195.0 in urma tranzactiei
+02:48:13.615254300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.615254300 Produsul curent a ajuns la valoarea 175.0
+02:48:13.615254300 Produsul curent a ajuns la valoarea 600.0
+02:48:13.717345900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.717345900 Produsul curent a ajuns la valoarea 950.0
+02:48:13.717345900 Produsul curent a ajuns la valoarea 1200.0
+Ati incasat suma de 180.0 in urma tranzactiei
+//////////////
+Log-ul brokerului 1:
+02:48:13.409109700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.410110700 Produsul curent a ajuns la valoarea 500.0
+02:48:13.410110700 Produsul curent a ajuns la valoarea 590.0
+Ati incasat suma de 88.5 in urma tranzactiei
+02:48:13.511179100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.511179100 Produsul curent a ajuns la valoarea 900.0
+02:48:13.511179100 Produsul curent a ajuns la valoarea 1950.0
+02:48:13.615254300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.615254300 Produsul curent a ajuns la valoarea 175.0
+02:48:13.616255700 Produsul curent a ajuns la valoarea 600.0
+Ati incasat suma de 150.0 in urma tranzactiei
+02:48:13.717345900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.717345900 Produsul curent a ajuns la valoarea 950.0
+02:48:13.717345900 Produsul curent a ajuns la valoarea 1200.0
+//////////////
+Log-ul brokerului 2:
+02:48:13.409109700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.410110700 Produsul curent a ajuns la valoarea 500.0
+02:48:13.410110700 Produsul curent a ajuns la valoarea 590.0
+02:48:13.511179100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.511179100 Produsul curent a ajuns la valoarea 900.0
+02:48:13.511179100 Produsul curent a ajuns la valoarea 1950.0
+02:48:13.615254300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.615254300 Produsul curent a ajuns la valoarea 175.0
+02:48:13.616255700 Produsul curent a ajuns la valoarea 600.0
+02:48:13.717345900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.717345900 Produsul curent a ajuns la valoarea 950.0
+02:48:13.717345900 Produsul curent a ajuns la valoarea 1200.0
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+Log-ul clientului 1:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 2
+   nume = Mobilier1
+   pretVanzare = 2999.99
+   pretMinim = 500.0
+   an = 2002
+   Mobila: 
+       tip = Dulap
+       material = Mahon
+
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 500.0
+Pentru produsul cu numele Mobilier1 s-a licitat suma de 590.0
+Clientul Nume1 a achizitionat produsul Mobilier1 la pretul de 590.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 8
+   nume = Primavara
+   pretVanzare = 499.99
+   pretMinim = 80.0
+   an = 1989
+   Tablou: 
+       numePictor = Abbasi_Riza
+       culori = tempera
+
+Pentru produsul cu numele Primavara s-a licitat suma de 900.0
+Pentru produsul cu numele Primavara s-a licitat suma de 1950.0
+Clientul Nume6 a achizitionat produsul Primavara la pretul de 1950.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 175.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 600.0
+Clientul Nume8 a achizitionat produsul Canapea_Ernest la pretul de 600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 950.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume1 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+//////////////
+-------------

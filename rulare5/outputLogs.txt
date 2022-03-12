@@ -1,0 +1,358 @@
+Log-ul brokerului 0:
+02:48:14.302761300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.302761300 Produsul curent a ajuns la valoarea 500.0
+02:48:14.303744900 Produsul curent a ajuns la valoarea 620.0
+Ati incasat suma de 93.0 in urma tranzactiei
+02:48:14.404814600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.404814600 Produsul curent a ajuns la valoarea 685.0
+02:48:14.404814600 Produsul curent a ajuns la valoarea 870.0
+02:48:14.507906700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.507906700 Produsul curent a ajuns la valoarea 400.0
+02:48:14.507906700 Produsul curent a ajuns la valoarea 470.0
+Ati incasat suma de 117.5 in urma tranzactiei
+02:48:14.608960 Licitatia nu a putut incepe din cauza numarului mic de participanti
+//////////////
+Log-ul brokerului 1:
+02:48:14.302761300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.302761300 Produsul curent a ajuns la valoarea 500.0
+02:48:14.303744900 Produsul curent a ajuns la valoarea 620.0
+02:48:14.404814600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.404814600 Produsul curent a ajuns la valoarea 685.0
+02:48:14.404814600 Produsul curent a ajuns la valoarea 870.0
+Ati incasat suma de 217.5 in urma tranzactiei
+02:48:14.507906700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.507906700 Produsul curent a ajuns la valoarea 400.0
+02:48:14.507906700 Produsul curent a ajuns la valoarea 470.0
+02:48:14.608960 Licitatia nu a putut incepe din cauza numarului mic de participanti
+//////////////
+Log-ul brokerului 2:
+02:48:14.302761300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.302761300 Produsul curent a ajuns la valoarea 500.0
+02:48:14.303744900 Produsul curent a ajuns la valoarea 620.0
+02:48:14.404814600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.404814600 Produsul curent a ajuns la valoarea 685.0
+02:48:14.404814600 Produsul curent a ajuns la valoarea 870.0
+02:48:14.507906700 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.507906700 Produsul curent a ajuns la valoarea 400.0
+02:48:14.507906700 Produsul curent a ajuns la valoarea 470.0
+02:48:14.608960 Licitatia nu a putut incepe din cauza numarului mic de participanti
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 500.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 620.0
+Clientul Nume1 a achizitionat produsul Canapea_Ernest la pretul de 620.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 17
+   nume = Luna
+   pretVanzare = 1999.99
+   pretMinim = 850.0
+   an = 1976
+   Tablou: 
+       numePictor = Josef_Albers
+       culori = acrilic
+
+Pentru produsul cu numele Luna s-a licitat suma de 685.0
+Pentru produsul cu numele Luna s-a licitat suma de 870.0
+Clientul Nume5 a achizitionat produsul Luna la pretul de 870.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 5
+   nume = Malul_marii
+   pretVanzare = 599.99
+   pretMinim = 20.0
+   an = 1985
+   Tablou: 
+       numePictor = John_Smith
+       culori = ulei
+
+Pentru produsul cu numele Malul_marii s-a licitat suma de 400.0
+Pentru produsul cu numele Malul_marii s-a licitat suma de 470.0
+Clientul Nume7 a achizitionat produsul Malul_marii la pretul de 470.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 1:
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 500.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 620.0
+Clientul Nume1 a achizitionat produsul Canapea_Ernest la pretul de 620.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 17
+   nume = Luna
+   pretVanzare = 1999.99
+   pretMinim = 850.0
+   an = 1976
+   Tablou: 
+       numePictor = Josef_Albers
+       culori = acrilic
+
+Pentru produsul cu numele Luna s-a licitat suma de 685.0
+Pentru produsul cu numele Luna s-a licitat suma de 870.0
+Clientul Nume5 a achizitionat produsul Luna la pretul de 870.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 5
+   nume = Malul_marii
+   pretVanzare = 599.99
+   pretMinim = 20.0
+   an = 1985
+   Tablou: 
+       numePictor = John_Smith
+       culori = ulei
+
+Pentru produsul cu numele Malul_marii s-a licitat suma de 400.0
+Pentru produsul cu numele Malul_marii s-a licitat suma de 470.0
+Clientul Nume7 a achizitionat produsul Malul_marii la pretul de 470.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 500.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 620.0
+Clientul Nume1 a achizitionat produsul Canapea_Ernest la pretul de 620.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 17
+   nume = Luna
+   pretVanzare = 1999.99
+   pretMinim = 850.0
+   an = 1976
+   Tablou: 
+       numePictor = Josef_Albers
+       culori = acrilic
+
+Pentru produsul cu numele Luna s-a licitat suma de 685.0
+Pentru produsul cu numele Luna s-a licitat suma de 870.0
+Clientul Nume5 a achizitionat produsul Luna la pretul de 870.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 5
+   nume = Malul_marii
+   pretVanzare = 599.99
+   pretMinim = 20.0
+   an = 1985
+   Tablou: 
+       numePictor = John_Smith
+       culori = ulei
+
+Pentru produsul cu numele Malul_marii s-a licitat suma de 400.0
+Pentru produsul cu numele Malul_marii s-a licitat suma de 470.0
+Clientul Nume7 a achizitionat produsul Malul_marii la pretul de 470.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 500.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 620.0
+Clientul Nume1 a achizitionat produsul Canapea_Ernest la pretul de 620.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 17
+   nume = Luna
+   pretVanzare = 1999.99
+   pretMinim = 850.0
+   an = 1976
+   Tablou: 
+       numePictor = Josef_Albers
+       culori = acrilic
+
+Pentru produsul cu numele Luna s-a licitat suma de 685.0
+Pentru produsul cu numele Luna s-a licitat suma de 870.0
+Clientul Nume5 a achizitionat produsul Luna la pretul de 870.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 5
+   nume = Malul_marii
+   pretVanzare = 599.99
+   pretMinim = 20.0
+   an = 1985
+   Tablou: 
+       numePictor = John_Smith
+       culori = ulei
+
+Pentru produsul cu numele Malul_marii s-a licitat suma de 400.0
+Pentru produsul cu numele Malul_marii s-a licitat suma de 470.0
+Clientul Nume7 a achizitionat produsul Malul_marii la pretul de 470.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 500.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 620.0
+Clientul Nume1 a achizitionat produsul Canapea_Ernest la pretul de 620.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 17
+   nume = Luna
+   pretVanzare = 1999.99
+   pretMinim = 850.0
+   an = 1976
+   Tablou: 
+       numePictor = Josef_Albers
+       culori = acrilic
+
+Pentru produsul cu numele Luna s-a licitat suma de 685.0
+Pentru produsul cu numele Luna s-a licitat suma de 870.0
+Clientul Nume5 a achizitionat produsul Luna la pretul de 870.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 5
+   nume = Malul_marii
+   pretVanzare = 599.99
+   pretMinim = 20.0
+   an = 1985
+   Tablou: 
+       numePictor = John_Smith
+       culori = ulei
+
+Pentru produsul cu numele Malul_marii s-a licitat suma de 400.0
+Pentru produsul cu numele Malul_marii s-a licitat suma de 470.0
+Clientul Nume7 a achizitionat produsul Malul_marii la pretul de 470.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 500.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 620.0
+Clientul Nume1 a achizitionat produsul Canapea_Ernest la pretul de 620.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 17
+   nume = Luna
+   pretVanzare = 1999.99
+   pretMinim = 850.0
+   an = 1976
+   Tablou: 
+       numePictor = Josef_Albers
+       culori = acrilic
+
+Pentru produsul cu numele Luna s-a licitat suma de 685.0
+Pentru produsul cu numele Luna s-a licitat suma de 870.0
+Clientul Nume5 a achizitionat produsul Luna la pretul de 870.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 5
+   nume = Malul_marii
+   pretVanzare = 599.99
+   pretMinim = 20.0
+   an = 1985
+   Tablou: 
+       numePictor = John_Smith
+       culori = ulei
+
+Pentru produsul cu numele Malul_marii s-a licitat suma de 400.0
+Pentru produsul cu numele Malul_marii s-a licitat suma de 470.0
+Clientul Nume7 a achizitionat produsul Malul_marii la pretul de 470.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 10
+   nume = Canapea_Ernest
+   pretVanzare = 999.99
+   pretMinim = 300.0
+   an = 2015
+   Mobila: 
+       tip = Canapea
+       material = Textil
+
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 500.0
+Pentru produsul cu numele Canapea_Ernest s-a licitat suma de 620.0
+Clientul Nume1 a achizitionat produsul Canapea_Ernest la pretul de 620.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 17
+   nume = Luna
+   pretVanzare = 1999.99
+   pretMinim = 850.0
+   an = 1976
+   Tablou: 
+       numePictor = Josef_Albers
+       culori = acrilic
+
+Pentru produsul cu numele Luna s-a licitat suma de 685.0
+Pentru produsul cu numele Luna s-a licitat suma de 870.0
+Clientul Nume5 a achizitionat produsul Luna la pretul de 870.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 5
+   nume = Malul_marii
+   pretVanzare = 599.99
+   pretMinim = 20.0
+   an = 1985
+   Tablou: 
+       numePictor = John_Smith
+       culori = ulei
+
+Pentru produsul cu numele Malul_marii s-a licitat suma de 400.0
+Pentru produsul cu numele Malul_marii s-a licitat suma de 470.0
+Clientul Nume7 a achizitionat produsul Malul_marii la pretul de 470.0. Felicitari!
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+//////////////
+-------------

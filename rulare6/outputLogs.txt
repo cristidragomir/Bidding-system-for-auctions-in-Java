@@ -1,0 +1,514 @@
+Log-ul brokerului 0:
+02:48:14.634980200 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.634980200 Produsul curent a ajuns la valoarea 1500.0
+02:48:14.634980200 Produsul curent a ajuns la valoarea 1800.0
+02:48:14.634980200 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:14.635978900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.635978900 Produsul curent a ajuns la valoarea 675.0
+02:48:14.635978900 Produsul curent a ajuns la valoarea 840.0
+02:48:14.738070600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.738070600 Produsul curent a ajuns la valoarea 710.0
+02:48:14.738070600 Produsul curent a ajuns la valoarea 1000.0
+Ati incasat suma de 250.0 in urma tranzactiei
+02:48:14.840123900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.840123900 Produsul curent a ajuns la valoarea 810.0
+02:48:14.840123900 Produsul curent a ajuns la valoarea 900.0
+Ati incasat suma de 135.0 in urma tranzactiei
+//////////////
+Log-ul brokerului 1:
+02:48:14.634980200 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.634980200 Produsul curent a ajuns la valoarea 1500.0
+02:48:14.634980200 Produsul curent a ajuns la valoarea 1800.0
+02:48:14.634980200 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:14.635978900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.635978900 Produsul curent a ajuns la valoarea 675.0
+02:48:14.635978900 Produsul curent a ajuns la valoarea 840.0
+Ati incasat suma de 84.0 in urma tranzactiei
+02:48:14.738070600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.738070600 Produsul curent a ajuns la valoarea 710.0
+02:48:14.738070600 Produsul curent a ajuns la valoarea 1000.0
+02:48:14.840123900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.840123900 Produsul curent a ajuns la valoarea 810.0
+02:48:14.840123900 Produsul curent a ajuns la valoarea 900.0
+//////////////
+Log-ul brokerului 2:
+02:48:14.634980200 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.634980200 Produsul curent a ajuns la valoarea 1500.0
+02:48:14.634980200 Produsul curent a ajuns la valoarea 1800.0
+02:48:14.635978900 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:14.635978900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.635978900 Produsul curent a ajuns la valoarea 675.0
+02:48:14.635978900 Produsul curent a ajuns la valoarea 840.0
+02:48:14.738070600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.738070600 Produsul curent a ajuns la valoarea 710.0
+02:48:14.738070600 Produsul curent a ajuns la valoarea 1000.0
+02:48:14.840123900 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.840123900 Produsul curent a ajuns la valoarea 810.0
+02:48:14.840123900 Produsul curent a ajuns la valoarea 900.0
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+Log-ul clientului 1:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1500.0
+Pentru produsul cu numele Coronita s-a licitat suma de 1800.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 675.0
+Pentru produsul cu numele Liniste s-a licitat suma de 840.0
+Clientul Nume6 a achizitionat produsul Liniste la pretul de 840.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 11
+   nume = Tempus_fugit
+   pretVanzare = 2199.99
+   pretMinim = 1000.0
+   an = 1905
+   Tablou: 
+       numePictor = Alfred_Agache
+       culori = acrilic
+
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 710.0
+Pentru produsul cu numele Tempus_fugit s-a licitat suma de 1000.0
+Clientul Nume8 a achizitionat produsul Tempus_fugit la pretul de 1000.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 850.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 810.0
+Pentru produsul cu numele Cercei s-a licitat suma de 900.0
+Clientul Nume2 a achizitionat produsul Cercei la pretul de 900.0. Felicitari!
+//////////////
+-------------

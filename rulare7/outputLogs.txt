@@ -1,0 +1,466 @@
+Log-ul brokerului 0:
+02:48:14.968216600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.969217500 Produsul curent a ajuns la valoarea 70.0
+02:48:14.969217500 Produsul curent a ajuns la valoarea 120.0
+02:48:15.070287300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.070287300 Produsul curent a ajuns la valoarea 675.0
+02:48:15.070287300 Produsul curent a ajuns la valoarea 1200.0
+02:48:15.174380300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.174380300 Produsul curent a ajuns la valoarea 1750.0
+02:48:15.174380300 Produsul curent a ajuns la valoarea 2200.0
+02:48:15.275452300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.275452300 Produsul curent a ajuns la valoarea 175.0
+02:48:15.275452300 Produsul curent a ajuns la valoarea 325.0
+02:48:15.275452300 Produsul curent a ajuns la valoarea 600.0
+Ati incasat suma de 90.0 in urma tranzactiei
+//////////////
+Log-ul brokerului 1:
+02:48:14.968216600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.969217500 Produsul curent a ajuns la valoarea 70.0
+02:48:14.969217500 Produsul curent a ajuns la valoarea 120.0
+Ati incasat suma de 12.0 in urma tranzactiei
+02:48:15.070287300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.070287300 Produsul curent a ajuns la valoarea 675.0
+02:48:15.070287300 Produsul curent a ajuns la valoarea 1200.0
+02:48:15.174380300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.174380300 Produsul curent a ajuns la valoarea 1750.0
+02:48:15.174380300 Produsul curent a ajuns la valoarea 2200.0
+02:48:15.275452300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.275452300 Produsul curent a ajuns la valoarea 175.0
+02:48:15.275452300 Produsul curent a ajuns la valoarea 325.0
+02:48:15.275452300 Produsul curent a ajuns la valoarea 600.0
+//////////////
+Log-ul brokerului 2:
+02:48:14.968216600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.969217500 Produsul curent a ajuns la valoarea 70.0
+02:48:14.969217500 Produsul curent a ajuns la valoarea 120.0
+02:48:15.070287300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.070287300 Produsul curent a ajuns la valoarea 675.0
+02:48:15.070287300 Produsul curent a ajuns la valoarea 1200.0
+Ati incasat suma de 120.0 in urma tranzactiei
+02:48:15.174380300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.174380300 Produsul curent a ajuns la valoarea 1750.0
+02:48:15.174380300 Produsul curent a ajuns la valoarea 2200.0
+Ati incasat suma de 330.0 in urma tranzactiei
+02:48:15.275452300 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.275452300 Produsul curent a ajuns la valoarea 175.0
+02:48:15.275452300 Produsul curent a ajuns la valoarea 325.0
+02:48:15.275452300 Produsul curent a ajuns la valoarea 600.0
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 100.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 70.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 120.0
+Clientul Nume6 a achizitionat produsul Banca_tapitata la pretul de 120.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 675.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume6 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1750.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Clientul Nume3 a achizitionat produsul Coronita la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 16
+   nume = Fotoliu_Minge_Karup
+   pretVanzare = 1114.99
+   pretMinim = 550.0
+   an = 2010
+   Mobila: 
+       tip = Fotoliu
+       material = Textil
+
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 175.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 325.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 600.0
+Clientul Nume3 a achizitionat produsul Fotoliu_Minge_Karup la pretul de 600.0. Felicitari!
+//////////////
+Log-ul clientului 1:
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 100.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 70.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 120.0
+Clientul Nume6 a achizitionat produsul Banca_tapitata la pretul de 120.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 675.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume6 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1750.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Clientul Nume3 a achizitionat produsul Coronita la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 16
+   nume = Fotoliu_Minge_Karup
+   pretVanzare = 1114.99
+   pretMinim = 550.0
+   an = 2010
+   Mobila: 
+       tip = Fotoliu
+       material = Textil
+
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 175.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 325.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 600.0
+Clientul Nume3 a achizitionat produsul Fotoliu_Minge_Karup la pretul de 600.0. Felicitari!
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 100.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 70.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 120.0
+Clientul Nume6 a achizitionat produsul Banca_tapitata la pretul de 120.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 675.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume6 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1750.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Clientul Nume3 a achizitionat produsul Coronita la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 16
+   nume = Fotoliu_Minge_Karup
+   pretVanzare = 1114.99
+   pretMinim = 550.0
+   an = 2010
+   Mobila: 
+       tip = Fotoliu
+       material = Textil
+
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 175.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 325.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 600.0
+Clientul Nume3 a achizitionat produsul Fotoliu_Minge_Karup la pretul de 600.0. Felicitari!
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 100.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 70.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 120.0
+Clientul Nume6 a achizitionat produsul Banca_tapitata la pretul de 120.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 675.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume6 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1750.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Clientul Nume3 a achizitionat produsul Coronita la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 16
+   nume = Fotoliu_Minge_Karup
+   pretVanzare = 1114.99
+   pretMinim = 550.0
+   an = 2010
+   Mobila: 
+       tip = Fotoliu
+       material = Textil
+
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 175.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 325.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 600.0
+Clientul Nume3 a achizitionat produsul Fotoliu_Minge_Karup la pretul de 600.0. Felicitari!
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 100.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 70.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 120.0
+Clientul Nume6 a achizitionat produsul Banca_tapitata la pretul de 120.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 675.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume6 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1750.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Clientul Nume3 a achizitionat produsul Coronita la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 16
+   nume = Fotoliu_Minge_Karup
+   pretVanzare = 1114.99
+   pretMinim = 550.0
+   an = 2010
+   Mobila: 
+       tip = Fotoliu
+       material = Textil
+
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 175.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 325.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 600.0
+Clientul Nume3 a achizitionat produsul Fotoliu_Minge_Karup la pretul de 600.0. Felicitari!
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 100.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 70.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 120.0
+Clientul Nume6 a achizitionat produsul Banca_tapitata la pretul de 120.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 675.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume6 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1750.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Clientul Nume3 a achizitionat produsul Coronita la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 16
+   nume = Fotoliu_Minge_Karup
+   pretVanzare = 1114.99
+   pretMinim = 550.0
+   an = 2010
+   Mobila: 
+       tip = Fotoliu
+       material = Textil
+
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 175.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 325.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 600.0
+Clientul Nume3 a achizitionat produsul Fotoliu_Minge_Karup la pretul de 600.0. Felicitari!
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 100.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 70.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 120.0
+Clientul Nume6 a achizitionat produsul Banca_tapitata la pretul de 120.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 14
+   nume = Soare
+   pretVanzare = 4999.99
+   pretMinim = 1050.0
+   an = 1970
+   Tablou: 
+       numePictor = Franklin_Adams
+       culori = ulei
+
+Pentru produsul cu numele Soare s-a licitat suma de 675.0
+Pentru produsul cu numele Soare s-a licitat suma de 1200.0
+Clientul Nume6 a achizitionat produsul Soare la pretul de 1200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 15
+   nume = Coronita
+   pretVanzare = 2799.99
+   pretMinim = 2150.55
+   an = 2007
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Coronita s-a licitat suma de 1750.0
+Pentru produsul cu numele Coronita s-a licitat suma de 2200.0
+Clientul Nume3 a achizitionat produsul Coronita la pretul de 2200.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 16
+   nume = Fotoliu_Minge_Karup
+   pretVanzare = 1114.99
+   pretMinim = 550.0
+   an = 2010
+   Mobila: 
+       tip = Fotoliu
+       material = Textil
+
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 175.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 325.0
+Pentru produsul cu numele Fotoliu_Minge_Karup s-a licitat suma de 600.0
+Clientul Nume3 a achizitionat produsul Fotoliu_Minge_Karup la pretul de 600.0. Felicitari!
+//////////////
+-------------

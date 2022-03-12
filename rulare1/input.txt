@@ -1,0 +1,34 @@
+addprodus Bijuterie 1 Colier 2699.99 250.55 2003 Aur true
+addprodus Mobila 2 Mobilier1 2999.99 500 2002 Dulap Mahon
+addprodus Tablou 3 Renasterea 5999.99 750 1970 Tonitza acrilic
+addprodus Bijuterie 4 Inel 999.99 100 1999 Argint false
+addprodus Tablou 5 Malul_marii 599.99 20 1985 John_Smith ulei
+addprodus Bijuterie 6 Cercei 1799.99 250.55 2001 Aur false
+addprodus Mobila 7 Biblioteca 4199.99 1500 2002 Depozitare Stejar
+addprodus Tablou 8 Primavara 499.99 80 1989 Abbasi_Riza tempera
+addprodus Bijuterie 9 Pandantiv 8699.99 1250.55 2010 Platina true
+addprodus Mobila 10 Canapea_Ernest 999.99 300 2015 Canapea Textil
+addprodus Tablou 11 Tempus_fugit 1199.99 1000 1905 Alfred_Agache acrilic
+addprodus Bijuterie 12 DelfiniAur 1699.99 850.55 2001 Argint false
+addprodus Mobila 13 Banca_tapitata 399.99 10 2011 Banca Piele
+addprodus Tablou 14 Soare 4999.99 1050 1970 Franklin_Adams ulei
+addprodus Bijuterie 15 Coronita 2799.99 2150.55 2007 Aur true
+addprodus Mobila 16 Fotoliu_Minge_Karup 1114.99 650 2010 Fotoliu Textil
+addprodus Tablou 17 Luna 1999.99 850 1976 Josef_Albers acrilic
+addprodus Bijuterie 18 Bratara14k 3899.99 2250.55 2003 Argint true
+addprodus Mobila 19 ScaunDirectorial 749.99 150 2002 Scaun Piele
+addprodus Tablou 20 Liniste 1199.99 350 1958 David_Allan ulei
+addclient PF 1 Nume1 Adresa1 6 3 5/07/1991
+addclient PF 2 Nume2 Adresa2 7 2 17/12/1980
+addclient PF 3 Nume3 Adresa3 8 0 25/04/1993
+addclient PF 4 Nume4 Adresa4 10 1 20/03/1987
+addclient PJ 5 Nume5 Adresa5 24 8 SRL 76555.78
+addclient PJ 6 Nume6 Adresa6 27 2 SRL 98347.78
+addclient PJ 7 Nume7 Adresa7 20 4 SA 12588.93
+addclient PJ 8 Nume8 Adresa8 2 0 SRL 293234.78
+admin addprodus Tablou 125 Tablou2 659.99 200 1970 AutorNumePrenume acrilic
+admin addprodus Bijuterie 100 Pandantiv 3999.99 1800 2003 Aur true
+licitatie 1 3 1 2
+licitatie 2 4 3 2
+licitatie 3 2 4 2
+licitatie 4 3 5 2

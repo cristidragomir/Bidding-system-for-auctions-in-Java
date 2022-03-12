@@ -1,0 +1,303 @@
+Log-ul brokerului 0:
+02:48:15.731762400 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.731762400 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.731762400 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.731762400 Produsul curent a ajuns la valoarea 1300.0
+02:48:15.731762400 Produsul curent a ajuns la valoarea 1425.0
+02:48:15.731762400 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.732769600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.732769600 Produsul curent a ajuns la valoarea 1725.0
+02:48:15.732769600 Produsul curent a ajuns la valoarea 1875.0
+02:48:15.732769600 Produsul curent a ajuns la valoarea 2350.0
+//////////////
+Log-ul brokerului 1:
+02:48:15.731762400 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.731762400 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.731762400 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.731762400 Produsul curent a ajuns la valoarea 1300.0
+02:48:15.731762400 Produsul curent a ajuns la valoarea 1425.0
+02:48:15.731762400 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.732769600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.732769600 Produsul curent a ajuns la valoarea 1725.0
+02:48:15.732769600 Produsul curent a ajuns la valoarea 1875.0
+02:48:15.732769600 Produsul curent a ajuns la valoarea 2350.0
+Ati incasat suma de 352.5 in urma tranzactiei
+//////////////
+Log-ul brokerului 2:
+02:48:15.731762400 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.731762400 Licitatia nu a putut incepe din cauza numarului mic de participanti
+02:48:15.731762400 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.731762400 Produsul curent a ajuns la valoarea 1300.0
+02:48:15.731762400 Produsul curent a ajuns la valoarea 1425.0
+02:48:15.731762400 Licitatia a avut loc, dar produsul nu a fost vandut intrucat nu s-a atins pretul minim
+02:48:15.732769600 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:15.732769600 Produsul curent a ajuns la valoarea 1725.0
+02:48:15.732769600 Produsul curent a ajuns la valoarea 1875.0
+02:48:15.732769600 Produsul curent a ajuns la valoarea 2350.0
+//////////////
+//////////////
+Log-ul clientului 0:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+Log-ul clientului 1:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+Log-ul clientului 2:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+Log-ul clientului 3:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+Log-ul clientului 4:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+Log-ul clientului 5:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+Log-ul clientului 6:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+Log-ul clientului 7:
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Licitatia nu a putut incepe din cauza numarului redus de participanti
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1300.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1425.0
+Licitatia a avut loc, dar produsul nu a fost vandut din cauza neatingerii pretului minim
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 9
+   nume = Pandantiv
+   pretVanzare = 8699.99
+   pretMinim = 1250.55
+   an = 2010
+   Bijuterie: 
+       material = Platina
+       piatraPretioasa = false
+
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1725.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 1875.0
+Pentru produsul cu numele Pandantiv s-a licitat suma de 2350.0
+Clientul Nume2 a achizitionat produsul Pandantiv la pretul de 2350.0. Felicitari!
+//////////////
+-------------

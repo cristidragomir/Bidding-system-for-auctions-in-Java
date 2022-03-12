@@ -1,0 +1,456 @@
+Log-ul brokerului 0:
+02:48:13.851441100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.852442100 Produsul curent a ajuns la valoarea 870.0
+02:48:13.852442100 Produsul curent a ajuns la valoarea 920.0
+02:48:13.954496200 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.954496200 Produsul curent a ajuns la valoarea 1675.0
+02:48:13.955495800 Produsul curent a ajuns la valoarea 2600.0
+02:48:14.058568800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.058568800 Produsul curent a ajuns la valoarea 175.0
+02:48:14.059569700 Produsul curent a ajuns la valoarea 220.0
+02:48:14.165644100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.165644100 Produsul curent a ajuns la valoarea 560.0
+02:48:14.165644100 Produsul curent a ajuns la valoarea 630.0
+//////////////
+Log-ul brokerului 1:
+02:48:13.852442100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.852442100 Produsul curent a ajuns la valoarea 870.0
+02:48:13.852442100 Produsul curent a ajuns la valoarea 920.0
+02:48:13.954496200 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.954496200 Produsul curent a ajuns la valoarea 1675.0
+02:48:13.955495800 Produsul curent a ajuns la valoarea 2600.0
+02:48:14.058568800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.058568800 Produsul curent a ajuns la valoarea 175.0
+02:48:14.059569700 Produsul curent a ajuns la valoarea 220.0
+02:48:14.165644100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.165644100 Produsul curent a ajuns la valoarea 560.0
+02:48:14.165644100 Produsul curent a ajuns la valoarea 630.0
+Ati incasat suma de 63.0 in urma tranzactiei
+//////////////
+Log-ul brokerului 2:
+02:48:13.852442100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.852442100 Produsul curent a ajuns la valoarea 870.0
+02:48:13.852442100 Produsul curent a ajuns la valoarea 920.0
+Ati incasat suma de 138.0 in urma tranzactiei
+02:48:13.954496200 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:13.954496200 Produsul curent a ajuns la valoarea 1675.0
+02:48:13.955495800 Produsul curent a ajuns la valoarea 2600.0
+Ati incasat suma de 260.0 in urma tranzactiei
+02:48:14.058568800 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.058568800 Produsul curent a ajuns la valoarea 175.0
+02:48:14.059569700 Produsul curent a ajuns la valoarea 220.0
+Ati incasat suma de 55.0 in urma tranzactiei
+02:48:14.165644100 Pregatiti-va Brokeri! Licitatia a inceput!
+02:48:14.165644100 Produsul curent a ajuns la valoarea 560.0
+02:48:14.165644100 Produsul curent a ajuns la valoarea 630.0
+//////////////
+//////////////
+Log-ul clientului 0:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 250.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 870.0
+Pentru produsul cu numele Cercei s-a licitat suma de 920.0
+Clientul Nume1 a achizitionat produsul Cercei la pretul de 920.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 2600.0
+Clientul Nume6 a achizitionat produsul Biblioteca la pretul de 2600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 10.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 175.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Banca_tapitata la pretul de 220.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 560.0
+Pentru produsul cu numele Liniste s-a licitat suma de 630.0
+Clientul Nume5 a achizitionat produsul Liniste la pretul de 630.0. Felicitari!
+//////////////
+Log-ul clientului 1:
+//////////////
+Log-ul clientului 2:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 250.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 870.0
+Pentru produsul cu numele Cercei s-a licitat suma de 920.0
+Clientul Nume1 a achizitionat produsul Cercei la pretul de 920.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 2600.0
+Clientul Nume6 a achizitionat produsul Biblioteca la pretul de 2600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 10.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 175.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Banca_tapitata la pretul de 220.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 560.0
+Pentru produsul cu numele Liniste s-a licitat suma de 630.0
+Clientul Nume5 a achizitionat produsul Liniste la pretul de 630.0. Felicitari!
+//////////////
+Log-ul clientului 3:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 250.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 870.0
+Pentru produsul cu numele Cercei s-a licitat suma de 920.0
+Clientul Nume1 a achizitionat produsul Cercei la pretul de 920.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 2600.0
+Clientul Nume6 a achizitionat produsul Biblioteca la pretul de 2600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 10.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 175.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Banca_tapitata la pretul de 220.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 560.0
+Pentru produsul cu numele Liniste s-a licitat suma de 630.0
+Clientul Nume5 a achizitionat produsul Liniste la pretul de 630.0. Felicitari!
+//////////////
+Log-ul clientului 4:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 250.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 870.0
+Pentru produsul cu numele Cercei s-a licitat suma de 920.0
+Clientul Nume1 a achizitionat produsul Cercei la pretul de 920.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 2600.0
+Clientul Nume6 a achizitionat produsul Biblioteca la pretul de 2600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 10.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 175.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Banca_tapitata la pretul de 220.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 560.0
+Pentru produsul cu numele Liniste s-a licitat suma de 630.0
+Clientul Nume5 a achizitionat produsul Liniste la pretul de 630.0. Felicitari!
+//////////////
+Log-ul clientului 5:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 250.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 870.0
+Pentru produsul cu numele Cercei s-a licitat suma de 920.0
+Clientul Nume1 a achizitionat produsul Cercei la pretul de 920.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 2600.0
+Clientul Nume6 a achizitionat produsul Biblioteca la pretul de 2600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 10.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 175.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Banca_tapitata la pretul de 220.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 560.0
+Pentru produsul cu numele Liniste s-a licitat suma de 630.0
+Clientul Nume5 a achizitionat produsul Liniste la pretul de 630.0. Felicitari!
+//////////////
+Log-ul clientului 6:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 250.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 870.0
+Pentru produsul cu numele Cercei s-a licitat suma de 920.0
+Clientul Nume1 a achizitionat produsul Cercei la pretul de 920.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 2600.0
+Clientul Nume6 a achizitionat produsul Biblioteca la pretul de 2600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 10.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 175.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Banca_tapitata la pretul de 220.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 560.0
+Pentru produsul cu numele Liniste s-a licitat suma de 630.0
+Clientul Nume5 a achizitionat produsul Liniste la pretul de 630.0. Felicitari!
+//////////////
+Log-ul clientului 7:
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 6
+   nume = Cercei
+   pretVanzare = 1799.99
+   pretMinim = 250.55
+   an = 2001
+   Bijuterie: 
+       material = Aur
+       piatraPretioasa = false
+
+Pentru produsul cu numele Cercei s-a licitat suma de 870.0
+Pentru produsul cu numele Cercei s-a licitat suma de 920.0
+Clientul Nume1 a achizitionat produsul Cercei la pretul de 920.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 7
+   nume = Biblioteca
+   pretVanzare = 4199.99
+   pretMinim = 1500.0
+   an = 2002
+   Mobila: 
+       tip = Depozitare
+       material = Stejar
+
+Pentru produsul cu numele Biblioteca s-a licitat suma de 1675.0
+Pentru produsul cu numele Biblioteca s-a licitat suma de 2600.0
+Clientul Nume6 a achizitionat produsul Biblioteca la pretul de 2600.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 13
+   nume = Banca_tapitata
+   pretVanzare = 399.99
+   pretMinim = 10.0
+   an = 2011
+   Mobila: 
+       tip = Banca
+       material = Piele
+
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 175.0
+Pentru produsul cu numele Banca_tapitata s-a licitat suma de 220.0
+Clientul Nume7 a achizitionat produsul Banca_tapitata la pretul de 220.0. Felicitari!
+Atentie clienti! Se liciteaza pentru urmatorul produs: 
+Detalii generale produs: 
+   id = 20
+   nume = Liniste
+   pretVanzare = 1199.99
+   pretMinim = 350.0
+   an = 1958
+   Tablou: 
+       numePictor = David_Allan
+       culori = ulei
+
+Pentru produsul cu numele Liniste s-a licitat suma de 560.0
+Pentru produsul cu numele Liniste s-a licitat suma de 630.0
+Clientul Nume5 a achizitionat produsul Liniste la pretul de 630.0. Felicitari!
+//////////////
+-------------

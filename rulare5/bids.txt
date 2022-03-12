@@ -1,0 +1,27 @@
+bid 1 300
+bid 3 400
+bid 6 500
+--
+bid 3 570
+bid 6 590
+bid 1 620
+--
+bid 1 400
+bid 4 520
+bid 5 650
+bid 6 625
+bid 4 685
+--
+bid 1 700
+bid 4 725
+bid 5 870
+bid 6 800
+--
+bid 7 400
+bid 8 350
+bid 3 375
+--
+bid 3 420
+bid 7 470
+bid 8 444
+--
